@@ -1,4 +1,4 @@
-# Ready--Or-Not-Mod-Manger
+# Ready--Or-Not-Mod-Manger to🔨
 
 # About:
 Basically a simple EXTEERNAL mod manager that allows you to -
@@ -7,10 +7,10 @@ Basically a simple EXTEERNAL mod manager that allows you to -
 - Auto Adds/Removes mods for paks folder
 - Simple and Easy
 
-# Video:
+# Video 📽️:
 https://www.youtube.com/watch?v=LsbxJ6fF3Vo
 
-# How to Use
+# How to Use ❓:
 - Put all mods in the /mods folder (this is the pak file that you get after downloading a mod)
 - Move any current mod pak files into the mod folder.
 - launch the exe
