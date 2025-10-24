@@ -1,4 +1,4 @@
-# Ready--Or-Not-Mod-Manger to🔨
+# Ready Or Not Mod Manger 🔨
 
 # About:
 Basically a simple EXTEERNAL mod manager that allows you to -
