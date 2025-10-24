@@ -8,4 +8,4 @@ Basically a simple EXTEERNAL mod manager that allows you to -
 - Simple and Easy
 
 # Video:
-https://www.youtube.com/watch?v=eX9a06iFVx8
+https://www.youtube.com/watch?v=LsbxJ6fF3Vo
