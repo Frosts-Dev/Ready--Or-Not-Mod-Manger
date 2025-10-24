@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Ready Or Not Mod manager EXTERNAL/1.0.0": {
+        "runtime": {
+          "Ready Or Not Mod manager EXTERNAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ready Or Not Mod manager EXTERNAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
